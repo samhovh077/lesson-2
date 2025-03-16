@@ -234,6 +234,13 @@ header div {
     gap: 12px;
 }
 
+header search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
 .high-section {
     display: flex;
     flex-direction: column;
